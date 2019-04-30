@@ -8,4 +8,4 @@ Requirements to run the project:
 
 2 -You need to have Oracle DBMS.
 
-3 -If you have done all of that contact me to get the Oracle Script.
+3 -If you have done all of that contact me to get the Oracle Script that Creates the Database.
