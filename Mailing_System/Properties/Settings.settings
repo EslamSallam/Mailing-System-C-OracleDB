@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Mailing_System.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="dashb" Type="System.Drawing.Size" Scope="Application">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="signsize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">1270, 700</Value>
+    </Setting>
+    <Setting Name="signsiz" Type="System.Drawing.Size" Scope="Application">
+      <Value Profile="(Default)">750, 550</Value>
+    </Setting>
+    <Setting Name="my" Type="System.Drawing.Size" Scope="Application">
+      <Value Profile="(Default)">750, 550</Value>
+    </Setting>
+    <Setting Name="st" Type="System.Windows.Forms.FormStartPosition" Scope="Application">
+      <Value Profile="(Default)">CenterScreen</Value>
+    </Setting>
+    <Setting Name="sf" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
