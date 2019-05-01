@@ -1,5 +1,4 @@
-# Mailing-System-C#-OracleDB
-############################
+ Mailing-System-C#-OracleDB
 
 Requirements to run the project:
 
